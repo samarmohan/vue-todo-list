@@ -17,5 +17,6 @@ This repo is for the community and is not going to be accepting and new features
 Deployed [here](https://hopeful-lamarr-78eb9b.netlify.app/)! <br />
 
 ### Other Lists
-[React Todo List](https://github.com/samarmohan/react-todo-list)
-Angular coming soon!
+
+[React Todo List](https://github.com/samarmohan/react-todo-list) <br />
+[Angular Todo List](https://github.com/samarmohan/angular-todo-list)
